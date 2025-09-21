@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.1.0](https://github.com/guyderriman-ship-it/release-please-monorepo-example/compare/hello-react@v3.0.0...hello-react@v3.1.0) (2025-09-20)
+
+
+### Features
+
+* big change 6 ([511e9e6](https://github.com/guyderriman-ship-it/release-please-monorepo-example/commit/511e9e6eefe04720dcd0e2c8da07934884906173))
+
 ## [3.0.0](https://github.com/guyderriman-ship-it/release-please-monorepo-example/compare/hello-react@v2.0.0...hello-react@v3.0.0) (2025-09-20)
 
 
