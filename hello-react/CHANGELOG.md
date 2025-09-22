@@ -1,5 +1,13 @@
 # Changelog
 
+## [4.1.0](https://github.com/guyderriman-ship-it/release-please-monorepo-example/compare/hello-react@v4.0.0...hello-react@v4.1.0) (2025-09-22)
+
+
+### Features
+
+* fix 10 ([8867c67](https://github.com/guyderriman-ship-it/release-please-monorepo-example/commit/8867c67ef68eca4966b2dcfaa79d304e203f7873))
+* fix 9 ([f92df26](https://github.com/guyderriman-ship-it/release-please-monorepo-example/commit/f92df26faee5d9a5fdac6d1f7764764dc1756073))
+
 ## [4.0.0](https://github.com/guyderriman-ship-it/release-please-monorepo-example/compare/hello-react@v3.1.1...hello-react@v4.0.0) (2025-09-21)
 
 
