@@ -1,5 +1,30 @@
 # Changelog
 
+## [5.0.0](https://github.com/guyderriman-ship-it/release-please-monorepo-example/compare/hello-react@v4.1.0...hello-react@v5.0.0) (2025-09-22)
+
+
+### ⚠ BREAKING CHANGES
+
+* big change
+
+### Features
+
+* big change ([0b67bfa](https://github.com/guyderriman-ship-it/release-please-monorepo-example/commit/0b67bfac8f16057b6748391e06f6294d34514839))
+* big change 4 ([b8853b7](https://github.com/guyderriman-ship-it/release-please-monorepo-example/commit/b8853b7978d2edcdced3c1a1f4a0992e278b938c))
+* big change 5 ([e17187d](https://github.com/guyderriman-ship-it/release-please-monorepo-example/commit/e17187d473107aea349f97dd11f3a407338d0b9e))
+* big change 6 ([511e9e6](https://github.com/guyderriman-ship-it/release-please-monorepo-example/commit/511e9e6eefe04720dcd0e2c8da07934884906173))
+* fix 10 ([8867c67](https://github.com/guyderriman-ship-it/release-please-monorepo-example/commit/8867c67ef68eca4966b2dcfaa79d304e203f7873))
+* fix 8 ([5df5a0b](https://github.com/guyderriman-ship-it/release-please-monorepo-example/commit/5df5a0b2c64d5d1d417b1ee079ff7fdf5cdf9237))
+* fix 9 ([f92df26](https://github.com/guyderriman-ship-it/release-please-monorepo-example/commit/f92df26faee5d9a5fdac6d1f7764764dc1756073))
+* **react:** add sample code ([755d213](https://github.com/guyderriman-ship-it/release-please-monorepo-example/commit/755d2133dde08b8e1aeb2012256ee58b934fc346))
+* updated 2 ([6f19fc4](https://github.com/guyderriman-ship-it/release-please-monorepo-example/commit/6f19fc458ec8497dad255bab850ea766122a5db1))
+
+
+### Bug Fixes
+
+* 7 ([457f4c6](https://github.com/guyderriman-ship-it/release-please-monorepo-example/commit/457f4c6f59e66407bacd9accdd3410c3eb2bca0d))
+* changes to both apps ([2a0afc0](https://github.com/guyderriman-ship-it/release-please-monorepo-example/commit/2a0afc030b9987e0f6bf5cf0d9fd13d127e8f377))
+
 ## [4.1.0](https://github.com/guyderriman-ship-it/release-please-monorepo-example/compare/hello-react@v4.0.0...hello-react@v4.1.0) (2025-09-22)
 
 
